@@ -2,7 +2,7 @@
 
 ## 📸 Aperçu
 
-![Aperçu du système solaire 3D](images/VERGE3d Application.png)
+![Aperçu du système solaire 3D](images/systeme-solaire-preview.png)
 
 # 🌌 Système Solaire 3D – Verge3D + IMCCE / Miriade
 
