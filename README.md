@@ -1,11 +1,7 @@
 # SYSTEME_SOLAIRE_VERGE3D
 
 ## 📸 Aperçu
-<div align="center">
-<img width="800" height="600" alt="GHBanner" src="./images/VERGE3D Application.png" />
-</div>
-
-![Aperçu du système solaire 3D](images/VERGE3d Application.png)
+![Aperçu du système solaire 3D](./images/VERGE3D Application.png)
 
 # 🌌 Système Solaire 3D – Verge3D + IMCCE / Miriade
 
