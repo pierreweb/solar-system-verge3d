@@ -1,6 +1,9 @@
 # SYSTEME_SOLAIRE_VERGE3D
 
 ## 📸 Aperçu
+<p align="center">
+  <img src="images/VERGE3D Application.png" alt="Aperçu du système solaire 3D" width="900">
+</p>
 ![Aperçu du système solaire 3D](images/VERGE3D Application.png)
 
 # 🌌 Système Solaire 3D – Verge3D + IMCCE / Miriade
