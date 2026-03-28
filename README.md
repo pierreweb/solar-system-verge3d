@@ -1,60 +1,60 @@
-# SYSTEME_SOLAIRE_VERGE3D
+# 🌌 3D Solar System – Verge3D + IMCCE / Miriade
 
-## 📸 Aperçu
+An interactive **3D web application** representing the **Solar System**, built with **Verge3D**, using real astronomical ephemerides from **IMCCE / Miriade** to position planets accurately for a selected date.
 
-![Aperçu du système solaire 3D](./images/systeme-solaire-preview.png)
+This project allows users to visualize the Solar System in 3D and retrieve realistic planetary positions for a chosen date.
 
-# 🌌 Système Solaire 3D – Verge3D + IMCCE / Miriade
+---
 
-Application web interactive en **3D** représentant le **système solaire** réalisée avec **Verge3D**, affichant les positions des planètes à une date donnée grâce au service d’éphémérides **IMCCE / Miriade**.
+## 📸 Preview
 
-Ce projet permet de visualiser en temps réel ou à une date choisie :
+![3D Solar System Preview](./images/systeme-solaire-preview.png)
 
-- ☀️ Soleil
-- ☿ Mercure
-- ♀ Vénus
-- 🌍 Terre
-- 🌙 Lune
+---
+
+## ✨ Features
+
+- Interactive **3D Solar System** rendered in the browser
+- Select a **custom date**
+- Retrieve **real planetary positions** from the **IMCCE / Miriade** ephemeris service
+- Dynamically position planets along their orbits
+- Display:
+- ☀️ Sun
+- ☿ Mercury
+- ♀ Venus
+- 🌍 Earth
+- 🌙 Moon
 - ♂ Mars
-- ☄️ Ceinture d’astéroïdes + Cérès
+- ☄️ Asteroid belt + Ceres
 - ♃ Jupiter
-- ♄ Saturne
+- ♄ Saturn
 - ♅ Uranus
 - ♆ Neptune
-- (optionnel selon version : Pluto)
+- (Optional depending on version: Pluto)
+- Display **orbital paths**
+- Display **rotation axes**
+- Planet **billboard labels / indicators**
+- Animate:
+  - planetary self-rotation
+  - orbital revolution
+- Adjustable **animation speed**
+- Audio / music controls
+- Fullscreen mode
+- Interactive UI with sliders and control buttons
 
 ---
 
-## ✨ Fonctionnalités
-
-- Représentation 3D du système solaire dans le navigateur
-- Choix d’une **date précise**
-- Récupération des **positions astronomiques réelles** via l’API **IMCCE / Miriade**
-- Positionnement dynamique des planètes sur leurs orbites
-- Affichage des **orbites**
-- Affichage des **axes de rotation**
-- **Billboards / labels** indiquant le nom des planètes
-- Animation des rotations :
-  - rotation sur elles-mêmes
-  - révolution sur orbite
-- Réglage de la **vitesse d’animation**
-- Gestion de l’**audio / musique**
-- Mode **plein écran**
-- Interface utilisateur avec sliders et boutons de contrôle
-
----
-
-## 🛠️ Technologies utilisées
+## 🛠️ Technologies Used
 
 - **Verge3D**
 - **JavaScript**
 - **HTML / CSS**
-- **API Fetch**
-- **IMCCE / Miriade ephemcc API**
+- **Fetch API**
+- **IMCCE / Miriade ephemerides API**
 
 ---
 
-## 📁 Structure du projet
+## 📁 Project Structure
 
 ```text
 T:.
